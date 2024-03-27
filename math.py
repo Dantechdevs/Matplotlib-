@@ -1,0 +1,1 @@
+plt.title(r'$\sigma_i=15$')
